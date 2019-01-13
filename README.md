@@ -1,5 +1,5 @@
 # MRP
-Variance Estimation for Ratio and Regression Estimators with Survey Data //
+Variance Estimation for Ratio and Regression Estimators with Survey Data:
 Survey Data;
 Missing Values;
 Nearest Neighbor Imputation (NNI);
